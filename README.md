@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**omermecitoglu/omermecitoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/microsoft/TypeScript" target="_blank">
+  <img align="left" height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/typescript.svg" alt="TypeScript">
+</a>
+<a href="https://github.com/facebook/react" target="_blank">
+  <img align="left" height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/react.svg" alt="React">
+</a>
+<a href="https://github.com/reduxjs/redux" target="_blank">
+  <img align="left" height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/redux.svg" alt="Redux">
+</a>
+<a href="https://github.com/sass/sass" target="_blank">
+  <img align="left" height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/sass.svg" alt="Sass">
+</a>
