@@ -1,58 +1,67 @@
-<table>
-  <tr>
-    <td colspan="3" align="center">
-      <b>My Favorites</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/microsoft/TypeScript" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/typescript.svg" alt="TypeScript">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vercel/next.js" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/next.svg" alt="Next.js">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/facebook/react" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/react.svg" alt="React">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/twbs/bootstrap" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/bootstrap.svg" alt="Bootstrap">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sass/sass" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/sass.svg" alt="Sass">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/reduxjs/redux" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/redux.svg" alt="Redux">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/OAI/OpenAPI-Specification" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/openapi.svg" alt="OpenAPI">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/drizzle-team/drizzle-orm" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/drizzle.svg" alt="Drizzle">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/colinhacks/zod" target="_blank">
-        <img height="32" src="https://github.com/omermecitoglu/omermecitoglu/blob/main/assets/zod.svg" alt="Zod">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <b>Programming Languages</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,ruby" />
+</p>
+
+<p align="left">
+  <b>Frontend Frameworks & Runtimes</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,bootstrap,scss,html,css" />
+</p>
+
+<p align="left">
+  <b>Backend Frameworks & Runtimes</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,deno,rails" />
+</p>
+
+<p align="left">
+  <b>Databases</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,redis,mongodb,firebase" />
+</p>
+
+<p align="left">
+  <b>Cloud</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,githubactions,aws,cloudflare,vercel" />
+</p>
+
+<p align="left">
+  <b>Linux Distros</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=arch,ubuntu" />
+</p>
+
+<p align="left">
+  <b>Other</b>
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,jest,figma,md" />
+</p>
+
+<p align="left">
+<details>
+  <summary><b>Some Stats</b></summary>
+  <br />
+  <p>
+  <b>Most Used Languages</b>
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omermecitoglu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" width="320" alt="languages graph"  />
+  </p>
+  <p>
+  <b>Other Stats</b>
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=omermecitoglu&show_icons=true" width="320" alt="languages graph"  />
+  </p>
+</details>
+</p>
